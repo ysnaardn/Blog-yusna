@@ -15,11 +15,11 @@
 		/* Font face */
 	@font-face { 
 	    font-family: 'icomoon';
-	    src: url('../fonts/icomoon/icomoon.eot');
-	    src: url('../fonts/icomoon/icomoon.eot?#iefix') format('embedded-opentype'),
-	         url('../fonts/icomoon/icomoon.svg#icomoon') format('svg'),
-	         url('../fonts/icomoon/icomoon.woff') format('woff'),
-	         url('../fonts/icomoon/icomoon.ttf') format('truetype');
+	    src: url('http://rbista.com/zwin/html/fonts/icomoon/icomoon.eot');
+	    src: url('http://rbista.com/zwin/html/fonts/icomoon/icomoon.eot?#iefix') format('embedded-opentype'),
+	         url('http://rbista.com/zwin/html/fonts/icomoon/icomoon.svg#icomoon') format('svg'),
+	         url('http://rbista.com/zwin/html/fonts/icomoon/icomoon.woff') format('woff'),
+	         url('http://rbista.com/zwin/html/fonts/icomoon/icomoon.ttf') format('truetype');
 	}	       
 
 	/*-------------------------------------------------------*/
